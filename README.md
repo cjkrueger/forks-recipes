@@ -15,7 +15,3 @@ recipes/
 .forks/                    app bookkeeping (collections, grocery list, meal plan)
   version
 ```
-
-The full on-disk contract lives in the
-[forks repository](https://github.com/cjkrueger/forks) at
-`docs/recipe-repo-format.md`.
